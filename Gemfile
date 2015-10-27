@@ -1,11 +1,6 @@
 source 'https://rubygems.org'
-
-gemspec
+ruby '2.2.1'
 
 gem 'nokogiri'
-
-group :test do
-  gem 'rake'
-  gem 'minitest'
-  gem 'minitest-rg'
-end
+gem 'minitest'
+gem 'minitest-rg'

@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/scrape'
+
+free_code_camp = SiteScraper.new
+free_code_camp.get_data
+free_code_camp.freecodecamp_print

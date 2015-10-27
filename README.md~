@@ -11,7 +11,7 @@ bundle install
 ### Command line usage
 
 ```
-./bin/freecodecamp_completed your_name
+./bin/freecodecamp your_name
 ```
 
 #### your_name - You can check your_name on freeCodeCamp's site.
