@@ -14,9 +14,9 @@ bundle install
 ./bin/freecodecamp_completed your_name
 ```
 
-your_name - You can check your_name on freeCodeCamp's site.
-When you click your photo on upper right of the freeCodeCamp's top page, url will change to be like, 'freecodecamp.com/.....'.
-'.....' is your_name to be input to this command line application.
+#### your_name - You can check your_name on freeCodeCamp's site.
+#### When you click your photo on upper right of the freeCodeCamp's top page, url will change to be like, 'freecodecamp.com/.....'.
+#### '.....' is your_name to be input to this command line application.
 
 ## License
 
