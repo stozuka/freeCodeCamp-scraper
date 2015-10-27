@@ -7,7 +7,8 @@ gem 'webmock'
 gem 'rake'
 gem 'minitest'
 gem 'minitest-rg'
+gem 'rake'
 
-group :test do
-  gem 'rake'
-end
+# group :test do
+#   gem 'rake'
+# end

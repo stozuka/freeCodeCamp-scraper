@@ -3,8 +3,8 @@ require 'freecodecamp/version'
 
 Gem::Specification.new do |s|
   s.name        =  'freecodecamp_completed'
-  s.version     =  FreeCodeCampVersion::VERSION
-  s.date        =  FreeCodeCampVersion::DATE
+  s.version     =  FCPVersion::VERSION
+  s.date        =  FCPVersion::DATE
   s.executables << 'freecodecamp_completed'
   s.summary     =  'Get completed course names and dates on freeCodeCamp'
   s.description =  'Get completed course names and dates on freeCodeCamp'
