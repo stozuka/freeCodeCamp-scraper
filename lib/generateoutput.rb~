@@ -1,0 +1,5 @@
+require_relative 'scrape'
+
+obj = SiteScraper.new
+obj.get_data
+obj.file_output
