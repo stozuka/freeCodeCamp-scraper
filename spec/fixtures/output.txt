@@ -1,0 +1,110 @@
+Waypoint: Learn how Free Code Camp Works, Oct 15, 2015
+Waypoint: Create a GitHub Account and Join our Chat Rooms, Oct 15, 2015
+Waypoint: Configure your Code Portfolio, Oct 15, 2015
+Waypoint: Join a Campsite in Your City, Oct 15, 2015
+Waypoint: Learn What to Do If You Get Stuck, Oct 15, 2015
+Waypoint: Say Hello to HTML Elements, Oct 15, 2015
+Waypoint: Headline with the h2 Element, Oct 15, 2015
+Waypoint: Inform with the Paragraph Element, Oct 15, 2015
+Waypoint: Uncomment HTML, Oct 15, 2015
+Waypoint: Comment out HTML, Oct 15, 2015
+Waypoint: Fill in the Blank with Placeholder Text, Oct 15, 2015
+Waypoint: Delete HTML Elements, Oct 15, 2015
+Waypoint: Change the Color of Text, Oct 15, 2015
+Waypoint: Use CSS Selectors to Style Elements, Oct 15, 2015
+Waypoint: Use a CSS Class to Style an Element, Oct 15, 2015
+Waypoint: Style Multiple Elements with a CSS Class, Oct 15, 2015
+Waypoint: Change the Font Size of an Element, Oct 18, 2015
+Waypoint: Set the Font Family of an Element, Oct 18, 2015
+Waypoint: Import a Google Font, Oct 18, 2015
+Waypoint: Specify How Fonts Should Degrade, Oct 18, 2015
+Waypoint: Add Images to your Website, Oct 18, 2015
+Waypoint: Size your Images, Oct 18, 2015
+Waypoint: Add Borders Around your Elements, Oct 18, 2015
+Waypoint: Add Rounded Corners with a Border Radius, Oct 18, 2015
+Waypoint: Make Circular Images with a Border Radius, Oct 18, 2015
+Waypoint: Link to External Pages with Anchor Elements, Oct 18, 2015
+Waypoint: Nest an Anchor Element within a Paragraph, Oct 18, 2015
+Waypoint: Make Dead Links using the Hash Symbol, Oct 18, 2015
+Waypoint: Turn an Image into a Link, Oct 18, 2015
+Waypoint: Add Alt Text to an Image for Accessibility, Oct 18, 2015
+Waypoint: Create a Bulleted Unordered List, Oct 18, 2015
+Waypoint: Create an Ordered List, Oct 18, 2015
+Waypoint: Create a Text Field, Oct 18, 2015
+Waypoint: Add Placeholder Text to a Text Field, Oct 18, 2015
+Waypoint: Create a Form Element, Oct 19, 2015
+Waypoint: Add a Submit Button to a Form, Oct 19, 2015
+Waypoint: Use HTML5 to Require a Field, Oct 19, 2015
+Waypoint: Create a Set of Radio Buttons, Oct 20, 2015
+Waypoint: Create a Set of Checkboxes, Oct 20, 2015
+Waypoint: Check Radio Buttons and Checkboxes by Default, Oct 20, 2015
+Waypoint: Nest Many Elements within a Single Div Element, Oct 20, 2015
+Waypoint: Give a Background Color to a Div Element, Oct 20, 2015
+Waypoint: Set the ID of an Element, Oct 21, 2015
+Waypoint: Use an ID Attribute to Style an Element, Oct 21, 2015
+Waypoint: Adjusting the Padding of an Element, Oct 21, 2015
+Waypoint: Adjust the Margin of an Element, Oct 21, 2015
+Waypoint: Add a Negative Margin to an Element, Oct 21, 2015
+Waypoint: Add Different Padding to Each Side of an Element, Oct 21, 2015
+Waypoint: Add Different Margins to Each Side of an Element, Oct 21, 2015
+Waypoint: Use Clockwise Notation to Specify the Padding of an Element, Oct 21, 2015
+Waypoint: Use Clockwise Notation to Specify the Margin of an Element, Oct 21, 2015
+Waypoint: Style the HTML Body Element, Oct 21, 2015
+Waypoint: Inherit Styles from the Body Element, Oct 21, 2015
+Waypoint: Prioritize One Style Over Another, Oct 21, 2015
+Waypoint: Override Styles in Subsequent CSS, Oct 21, 2015
+Waypoint: Override Class Declarations by Styling ID Attributes, Oct 21, 2015
+Waypoint: Override Class Declarations with Inline Styles, Oct 21, 2015
+Waypoint: Override All Other Styles by using Important, Oct 21, 2015
+Waypoint: Use Hex Code for Specific Colors, Oct 22, 2015
+Waypoint: Use Hex Code to Color Elements White, Oct 22, 2015
+Waypoint: Use Hex Code to Color Elements Red, Oct 22, 2015
+Waypoint: Use Hex Code to Color Elements Green, Oct 22, 2015
+Waypoint: Use Hex Code to Color Elements Blue, Oct 22, 2015
+Waypoint: Use Hex Code to Mix Colors, Oct 22, 2015
+Waypoint: Use Hex Code to Color Elements Gray, Oct 22, 2015
+Waypoint: Use Hex Code for Specific Shades of Gray, Oct 22, 2015
+Waypoint: Use Abbreviated Hex Code, Oct 22, 2015
+Waypoint: Use RGB values to Color Elements, Oct 22, 2015
+Waypoint: Use RGB to Color Elements White, Oct 22, 2015
+Waypoint: Use RGB to Color Elements Red, Oct 22, 2015
+Waypoint: Use RGB to Color Elements Green, Oct 22, 2015
+Waypoint: Use RGB to Color Elements Blue, Oct 22, 2015
+Waypoint: Use RGB to Mix Colors, Oct 22, 2015
+Waypoint: Use RGB to Color Elements Gray, Oct 22, 2015
+Waypoint: Use Responsive Design with Bootstrap Fluid Containers, Oct 22, 2015
+Waypoint: Make Images Mobile Responsive, Oct 22, 2015
+Waypoint: Center Text with Bootstrap, Oct 22, 2015
+Waypoint: Create a Bootstrap Button, Oct 22, 2015
+Waypoint: Create a Block Element Bootstrap Button, Oct 22, 2015
+Waypoint: Taste the Bootstrap Button Color Rainbow, Oct 22, 2015
+Waypoint: Call out Optional Actions with Button Info, Oct 22, 2015
+Waypoint: Warn your Users of a Dangerous Action, Oct 22, 2015
+Waypoint: Use the Bootstrap Grid to Put Elements Side By Side, Oct 24, 2015
+Waypoint: Ditch Custom CSS for Bootstrap, Oct 24, 2015
+Waypoint: Use Spans for Inline Elements, Oct 24, 2015
+Waypoint: Create a Custom Heading, Oct 24, 2015
+Waypoint: Add Font Awesome Icons to our Buttons, Oct 24, 2015
+Waypoint: Add Font Awesome Icons to all of our Buttons, Oct 24, 2015
+Waypoint: Responsively Style Radio Buttons, Oct 24, 2015
+Waypoint: Responsively Style Checkboxes, Oct 25, 2015
+Waypoint: Style Text Inputs as Form Controls, Oct 25, 2015
+Waypoint: Line up Form Elements Responsively with Bootstrap, Oct 25, 2015
+Waypoint: Create a Bootstrap Headline, Oct 26, 2015
+Waypoint: House our page within a Bootstrap Container Fluid Div, Oct 26, 2015
+Waypoint: Create a Bootstrap Row, Oct 26, 2015
+Waypoint: Split your Bootstrap Row, Oct 26, 2015
+Waypoint: Create Bootstrap Wells, Oct 26, 2015
+Waypoint: Add Elements within your Bootstrap Wells, Oct 26, 2015
+Waypoint: Apply the Default Bootstrap Button Style, Oct 26, 2015
+Waypoint: Create a Class to Target with jQuery Selectors, Oct 26, 2015
+Waypoint: Add ID Attributes to Bootstrap Elements, Oct 26, 2015
+Waypoint: Label Bootstrap Wells, Oct 26, 2015
+Waypoint: Give Each Element a Unique ID, Oct 26, 2015
+Waypoint: Label Bootstrap Buttons, Oct 26, 2015
+Waypoint: Use Comments to Clarify Code, Oct 26, 2015
+Waypoint: Browse Camper News, Oct 26, 2015
+Waypoint: Reference our Wiki, Oct 26, 2015
+Waypoint: Join our LinkedIn Alumni Network, Oct 26, 2015
+Waypoint: Commit to a Goal and a Nonprofit, Oct 26, 2015
+Waypoint: Learn how Script Tags and Document Ready Work, Oct 26, 2015
