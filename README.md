@@ -1,4 +1,4 @@
-# Scrape freeCodeCamp
+# Scrape freeCodeCamp　[![Build Status](https://travis-ci.org/stozuka/freeCodeCamp-scraper.svg?branch=master)](https://travis-ci.org/stozuka/freeCodeCamp-scraper)
 Command line application to get completed course names and dates on freeCodeCamp.com.
 
 ## Usage
