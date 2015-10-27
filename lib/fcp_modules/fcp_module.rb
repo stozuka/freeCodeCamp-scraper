@@ -3,15 +3,16 @@ require 'nokogiri'
 
 module FreeCodeCamp
   @course_date = []
+  URL ||= "http://freecodecamp.com/"
+  COURSE_XPATH ||= "//td[@class='col-xs-4']/text()"
+  DATE_XPATH ||= "//td[@class='col-xs-2']/text()"
 
   # crawl the site, and get the name of completed courses and its date
-  def get_data
-    url = "http://freecodecamp.com/#{ARGV[0]}"
+  def get_data(name)
+    doc = Nokogiri::HTML(open(URL + name))
 
-    doc = Nokogiri::HTML(open(url))
-
-    course_completed = doc.xpath("//td[@class='col-xs-4']/text()").to_a
-    date_completed = doc.xpath("//td[@class='col-xs-2']/text()").to_a
+    course_completed = doc.xpath(COURSE_XPATH).to_a
+    date_completed = doc.xpath(DATE_XPATH).to_a
 
     @course_date = course_completed.zip(date_completed)
   end
