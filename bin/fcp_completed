@@ -2,5 +2,5 @@
 require_relative '../lib/fcp_completed'
 
 name = ARGV[0]
-free_code_camp = SiteScraper.new(name)
-free_code_camp.freecodecamp_print
+free_code_camp = FCPCompleted.new(name)
+free_code_camp.fcp_print

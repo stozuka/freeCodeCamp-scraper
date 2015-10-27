@@ -12,7 +12,7 @@ end
 VCR.use_cassette('completed_information') do
   describe 'test' do
 
-    obj = SiteScraper.new('stozuka')
+    obj = FcpCompleted.new('stozuka')
     obj.file_output
 
     it 'has same course names and dates' do

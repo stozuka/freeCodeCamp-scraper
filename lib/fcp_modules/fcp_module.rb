@@ -1,7 +1,7 @@
 require 'open-uri'
 require 'nokogiri'
 
-module FreeCodeCamp
+module FCPCompleted
   @course_date = []
   URL ||= "http://freecodecamp.com/"
   COURSE_XPATH ||= "//td[@class='col-xs-4']/text()"
