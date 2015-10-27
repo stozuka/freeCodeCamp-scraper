@@ -5,16 +5,16 @@ Command line application to get completed course names and dates on freeCodeCamp
 Run the following command:
 
 ```
-bundle install
+gem install fcp_completed
 ```
 
 ### Command line usage
 
 ```
-./bin/fcp_completed your_name
+fcp_completed your_name
 ```
 
-'your_name' can be checked on freeCodeCamp's site.
+'your_name' can be checked on freeCodeCamp's website ([http://freecodecamp.com/map](http://freecodecamp.com/map)).
 
 When you click your photo on upper right of the freeCodeCamp's top page, url will be changed to like, 'freecodecamp.com/.....'.
 
