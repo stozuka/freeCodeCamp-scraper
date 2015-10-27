@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - ruby-head
+  - 2.2.1
   - 2.1.0
   - 1.9.3
   - jruby-head
@@ -11,4 +11,3 @@ matrix:
 branches:
   only:
     - master
-    - /*release-.*$/
