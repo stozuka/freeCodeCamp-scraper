@@ -1,5 +1,5 @@
-# Get completed course names and its date on freeCodeCamp.com
-Scrape freeCodeCamp
+# Scrape freeCodeCamp
+Get completed course names and its date on freeCodeCamp.com.
 
 ## Usage
 
