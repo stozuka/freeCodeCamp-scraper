@@ -1,6 +1,5 @@
 # Get completed course names and its date on freeCodeCamp.com
-A simple Ruby Gem to scrape completed course names and its date on freeCodeCamp.
-
+Scrape freeCodeCamp
 
 ## Usage
 
