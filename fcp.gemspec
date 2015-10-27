@@ -1,11 +1,11 @@
 $LOAD_PATH.push File.expand_path('../lib', __FILE__)
-require 'freecodecamp/version'
+require './lib/fcp_modules/version'
 
 Gem::Specification.new do |s|
-  s.name        =  'freecodecamp_completed'
+  s.name        =  'fcp_completed'
   s.version     =  FCPVersion::VERSION
   s.date        =  FCPVersion::DATE
-  s.executables << 'freecodecamp_completed'
+  s.executables << 'fcp_completed'
   s.summary     =  'Get completed course names and dates on freeCodeCamp'
   s.description =  'Get completed course names and dates on freeCodeCamp'
   s.authors     =  %w(stozuka)
