@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 require_relative '../lib/fcp_class'
 
-name = ARGV[0] if ARGV[0] != nil
+name = ARGV[0]
 free_code_camp = SiteScraper.new(name)
 free_code_camp.freecodecamp_print
